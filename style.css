@@ -429,3 +429,25 @@ body{
      }
  
 }
+@media (min-width:410px){
+    .tit{
+        font-size: 35px;
+    }
+    .hire-but{
+        transform: translateX(-10px);
+        border-radius: 10px;
+    }
+    .last{
+        display: none;  
+    }
+    .cl2{
+       display: block;
+       align-items: center;
+      margin-left: 120px;
+      
+    }
+    .li1{
+       color: rgb(245, 173, 38);
+    }
+
+}
