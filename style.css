@@ -415,7 +415,11 @@ body{
 }
 
 @media (min-width:320px){
-     .last{
+    .tit{
+    padding: 20px;
+    color: rgb(245, 173, 38);
+} 
+    .last{
          display: none;  
      }
      .cl2{
